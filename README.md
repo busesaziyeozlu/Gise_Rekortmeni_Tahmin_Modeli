@@ -1,4 +1,12 @@
 <img width="1663" height="1079" alt="image" src="https://github.com/user-attachments/assets/e4ecdaf1-24d4-4e30-a512-b142b400a784" />
+<img width="650" height="375" alt="image" src="https://github.com/user-attachments/assets/c63838f8-3628-46d4-88bd-b4e9f1f82721" />
+<img width="652" height="375" alt="image" src="https://github.com/user-attachments/assets/fb6d8b73-3778-4e59-838e-127f45135cc5" />
+<img width="648" height="374" alt="image" src="https://github.com/user-attachments/assets/9ecf213f-dcf5-4d5e-b4c1-a298d421d955" />
+<img width="647" height="375" alt="image" src="https://github.com/user-attachments/assets/3bbec715-e8c3-4f27-862a-0a33166d372e" />
+
+
+
+
 Veri Bilimi ile Gişe Rekortmeni Filmlerin Şifresini Çözmek: Bir Uçtan Uca Analiz Projesi
 Sinema dünyasında bir filmin "Hit" olması tesadüf mü, yoksa verilerle öngörülebilir bir matematik mi? 
 Son projemde, TMDB 5000 veri setini kullanarak film endüstrisinin finansal ve sosyal dinamiklerini analiz eden kapsamlı bir makine öğrenmesi hattı kurdum. İşte projenin teknik yolculuğu ve elde ettiğim çarpıcı bulgular:
